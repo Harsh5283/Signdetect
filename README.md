@@ -203,5 +203,5 @@ Integrate text-to-speech output for detected signs.
 
 
 Computer-Network Project by:
-Shailendra Mani Pandey, Suyash Shukla, Vaibhav Singh
+Harsh Kashyap, Govind Verma, Kartikey Singh
 🎓 CSE Student | Developer | Tech Enthusiast
